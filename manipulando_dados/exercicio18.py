@@ -1,2 +1,2 @@
-frase = input("Escreva uma frase: ").strip()
-print(f"Frase que você escreveu: {frase}")
+frase = "Não há nada de novo debaixo do sol"
+print(f"Frase que você escreveu: {frase.strip()}")
